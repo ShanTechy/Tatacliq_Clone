@@ -2,7 +2,18 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+This project is a TataCliq Website's clone
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+HTML , CSS , chakraUI, Bootstrap, react, redux have been used to create this project.
+
+login / signup functionality has been added
+
+search function is working (only for shirts and jeans other products is not added in the API)
+
+Slider function is done .
+
+Hover function is working.
+
+offers page has been added.
+
+Media query have been implemented.
